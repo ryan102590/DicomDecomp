@@ -1,21 +1,21 @@
-name: example-environment
+name: Dicom-Decomp
 channels:
+  - intel
   - conda-forge
   - anaconda
 dependencies:
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
-  - glob2
-  - scikit-learn
-  - scikit-garden
-  - numba
-  - numexpr
-  - joblib
+- numpy
+- scikit-image
+- progressbar
+- pydicom
+- joblib
+- natsort
+- pillow
+- gdcm
+- matplotlib
+- openjpeg
+- jpeg
+- joblib
+
+
   
