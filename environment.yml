@@ -1,0 +1,21 @@
+name: example-environment
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - glob2
+  - scikit-learn
+  - scikit-garden
+  - numba
+  - numexpr
+  - joblib
+  
