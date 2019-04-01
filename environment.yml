@@ -6,7 +6,7 @@ channels:
 dependencies:
 - numpy
 - scikit-image
-- progressbar
+- progressbar2 
 - pydicom
 - joblib
 - natsort
